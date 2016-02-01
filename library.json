@@ -16,6 +16,13 @@
     "url": "https://github.com/Roman3349",
     "maintainer": true
   }],
+  "dependencies": [{
+    "name": "MsTimer2",
+    "authors": [
+      "Javier Valencia",
+      "Paul Stoffregen"
+    ]
+  }],
   "frameworks": [
     "arduino"
   ],
