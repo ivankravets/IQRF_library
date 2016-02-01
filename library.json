@@ -1,0 +1,25 @@
+{
+  "name": "IQRF",
+  "keywords": "IQRF, communication",
+  "description": "IQRF library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ITManie/IQRF_library.git"
+  },
+  "authors": [{
+    "name": "MICRORISC",
+    "email": "support@iqrf.org",
+    "url": "https://github.com/MICRORISC"
+  }, {
+    "name": "Roman Ondráček",
+    "email": "roman@itmanie.cz",
+    "url": "https://github.com/Roman3349",
+    "maintainer": true
+  }],
+  "frameworks": [
+    "arduino"
+  ],
+  "platforms": [
+    "atmelavr"
+  ]
+}
